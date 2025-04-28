@@ -1,3 +1,3 @@
-@url = localhost:3000/
+@url = https://3000-marcoweb-sw2lib2025-n7jy4ojrvfo.ws-us118.gitpod.io
 
-GET {{url}}generos
+GET {{url}}/api/v1/generos
