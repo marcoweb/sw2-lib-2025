@@ -1,0 +1,3 @@
+@url = localhost:3000/
+
+GET {{url}}generos
