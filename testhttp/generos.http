@@ -1,3 +1,12 @@
-@url = https://3000-marcoweb-sw2lib2025-n7jy4ojrvfo.ws-us118.gitpod.io
+@url = https://3000-marcoweb-sw2lib2025-f7wv8bgli1g.ws-us118.gitpod.io
 
 GET {{url}}/api/v1/generos
+
+###
+POST {{url}}/api/v1/generos
+Content-Type: application/json
+
+{
+    "id" : 10,
+    "nome" : "Biografia"
+}
