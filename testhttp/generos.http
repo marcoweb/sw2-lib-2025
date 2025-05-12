@@ -1,6 +1,8 @@
-@url = https://3000-marcoweb-sw2lib2025-f7wv8bgli1g.ws-us118.gitpod.io
+@url = https://supreme-system-wvr44p4r76c96pv-3000.app.github.dev
 
 GET {{url}}/api/v1/generos
+###
+GET {{url}}/api/v1/generos/1
 
 ###
 POST {{url}}/api/v1/generos

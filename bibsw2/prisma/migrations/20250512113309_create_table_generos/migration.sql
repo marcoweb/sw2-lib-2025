@@ -1,0 +1,5 @@
+-- CreateTable
+CREATE TABLE "Genero" (
+    "id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    "nome" TEXT NOT NULL
+);
